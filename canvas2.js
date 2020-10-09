@@ -21,7 +21,7 @@ Page({
     });
     let promise2 = new Promise(function(resolve, reject) {
       wx.getImageInfo({
-        src: `../../images/${index}.png`,
+        src: `图像路径`,
         success: function(res) {
           console.log(res)
           resolve(res);
