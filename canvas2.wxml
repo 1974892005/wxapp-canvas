@@ -9,7 +9,7 @@
     <view class="btnAll">
       <view class="item">
         <image src="素材.png" class="demo" mode='aspectFit'></image>
-        <button class="btn" size='mini' open-type="getUserInfo" bindgetuserinfo="shengcheng" data-k="9">样式</button>
+        <button class="btn" size='mini' open-type="getUserInfo" bindgetuserinfo="shengcheng" data-k="1">样式</button>
       </view>
     </view>
     <button type='primary' bindtap='save' plain="true">保存头像到本地</button>
