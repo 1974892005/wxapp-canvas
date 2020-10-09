@@ -9,19 +9,7 @@
     <view class="btnAll">
       <view class="item">
         <image src="素材.png" class="demo" mode='aspectFit'></image>
-        <button class="btn" size='mini' open-type="getUserInfo" bindgetuserinfo="shengcheng" data-k="9">样式1</button>
-      </view>
-      <view class="item">
-        <image src="素材.png" class="demo" mode='aspectFit'></image>
-        <button class="btn" size='mini' open-type="getUserInfo" bindgetuserinfo="shengcheng" data-k="10">样式2</button>
-      </view>
-      <view class="item">
-        <image src="素材.png" class="demo" mode='aspectFit'></image>
-        <button class="btn" size='mini' open-type="getUserInfo" bindgetuserinfo="shengcheng" data-k="11">样式3</button>
-      </view>
-      <view class="item">
-        <image src="素材.png" class="demo" mode='aspectFit'></image>
-        <button class="btn" size='mini' open-type="getUserInfo" bindgetuserinfo="shengcheng" data-k="12">样式4</button>
+        <button class="btn" size='mini' open-type="getUserInfo" bindgetuserinfo="shengcheng" data-k="9">样式</button>
       </view>
     </view>
     <button type='primary' bindtap='save' plain="true">保存头像到本地</button>
